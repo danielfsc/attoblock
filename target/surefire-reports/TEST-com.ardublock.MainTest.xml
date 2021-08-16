@@ -42,7 +42,7 @@
     <property name="java.class.path" value="C:\Program Files\Java\apache-maven-3.8.2\boot\plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="16"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher package -f c:\Users\Girar\github\attoblock\pom.xml"/>
     <property name="java.home" value="C:\Program Files\AdoptOpenJDK\jdk-16.0.1.9-hotspot"/>
     <property name="user.language" value="pt"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>

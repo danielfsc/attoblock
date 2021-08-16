@@ -1,7 +1,7 @@
 package com.ardublock.translator.block.atto_fisica;
 
-import com.ardublock.core.Context;
-import java.util.ResourceBundle;
+// import com.ardublock.core.Context;
+// import java.util.ResourceBundle;
 import com.ardublock.translator.Translator;
 import com.ardublock.translator.block.TranslatorBlock;
 import com.ardublock.translator.block.exception.BlockException;
